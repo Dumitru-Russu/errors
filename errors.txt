@@ -1,0 +1,19 @@
+R.4-"UTF-8", fara virgula
+R.8- "blue;"
+R.10-"#images#ul"
+R.11-"green" fara "#"
+R.13- in tag-ul <title></title> nu se pune <br> pentru ca nu va 
+      avea niciun efect
+R.15-"background-color" 
+R.16-Microformatele sunt adaugate corect
+R.24- Elementul semantic potrivit e <div></div>
+R.27- de adaugat la img atributul "alt" :
+           <img src="url" alt="(name)">
+R.29- imaginea se va afisa cu width de 200px
+           si height proportional
+R.30- logo.jpg
+R.33- tag-urile trebuie inchise
+R.38- elementul <nav></nav>
+R.39- fundalul listei va fi negru pentru ca selectorii
+            dupa ID sunt mai importanti decat cei dupa 
+            clasa
